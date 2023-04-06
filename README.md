@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nsharma0114
-- 👀 I’m interested in machine learning engineering, data science, software development and the intersection of feminism and technology 
+- 👀 I’m interested in machine learning engineering, data science, software development and the intersection of society and technology 
 - 🌱 I’m currently learning how to become a better software engineer so I can build scalable data science programs  
 - 🙌 I'm looking for any opportunity to help anyone with anything! 
 - 📫 How to reach me: https://www.linkedin.com/in/namratasharma0114/ 
